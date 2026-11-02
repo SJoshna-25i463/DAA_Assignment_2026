@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Batch 4 — Travel: the "best value" hotel strip
 
 Technique chosen: **Divide and Conquer** (price-range shards, merged with one number per shard).
